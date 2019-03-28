@@ -15,7 +15,7 @@ In this tutorial, we’ll introduce a more lightweight process for sharing custo
 
 ## Develop a Custom Keywords plugin
 
-* Sample: https://github.com/katalon-studio/katalon-studio-excel-custom-keywords-plugin.
+* Sample: [https://github.com/katalon-studio/katalon-studio-excel-custom-keywords-plugin](https://github.com/katalon-studio/katalon-studio-excel-custom-keywords-plugin).
 * A Custom Keywords plugin is essentially a normal Katalon Studio project with some Custom Keywords implementation. So the steps are quite simple:
   * Create a new Katalon Studio project.
   * Implement your Custom Keywords.
@@ -33,9 +33,9 @@ In this tutorial, we’ll introduce a more lightweight process for sharing custo
 
 Example:
 
-[github.com](https://github.com/katalon-studio/katalon-studio-excel-custom-keywords-plugin/blob/master/Keywords/katalon-plugin.json)
 
-#### [katalon-studio/katalon-studio-excel-custom-keywords-plugin/blob/master/Keywords/katalon-plugin.json](https://github.com/katalon-studio/katalon-studio-excel-custom-keywords-plugin/blob/master/Keywords/katalon-plugin.json)
+
+
 
 ```
 {
@@ -45,9 +45,7 @@ Example:
 
 * In the project’s root folder add a  `build.gradle`  file
 
-[github.com](https://github.com/katalon-studio/katalon-studio-excel-custom-keywords-plugin/blob/master/build.gradle)
 
-#### [katalon-studio/katalon-studio-excel-custom-keywords-plugin/blob/master/build.gradle](https://github.com/katalon-studio/katalon-studio-excel-custom-keywords-plugin/blob/master/build.gradle)
 
 ```
 plugins {
