@@ -9,7 +9,7 @@ description: Guide to use the plugin to integrate Katalon Studio with Sauce Labs
 
 ### Create a Sauce Labs custom profile
 
-Go to **Project **> **Settings**. Under the **Plugins **section in the left menu, you will see **Sauce Labs Integration** if the plugin has been installed. 
+Go to **Project** > **Settings**. Under the **Plugins** section in the left menu, you will see **Sauce Labs Integration** if the plugin has been installed. 
 
 The form on the right allows you to enter your credentials, your desired Sauce Labs operating environments and systems. 
 
